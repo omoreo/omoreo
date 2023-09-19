@@ -1,10 +1,10 @@
-# **Halo, I'm Nathanapath Suwannaphum  ( Omo )**
+# **Halo, I'm Nathanapath Suwannaphum**
 
 
-* Now I'm Learning Programing C, C++, Java, ... etc.
+* 
 
 
-## **In a Futuren**
+## 
 
 
 
