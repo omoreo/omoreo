@@ -1,7 +1,6 @@
-# **Sawasdee , I'm Nathanapath Suwannaphum**
+# **Sawasdee **
 
-
-Now, I trying to learn about Web Developer (Frontend, Backend, Database)
+Learn Now 
 
 ## 
 
